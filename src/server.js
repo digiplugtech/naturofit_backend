@@ -14,7 +14,7 @@ const startServer = async () => {
     // Change force: false to true if you want to drop and recreate tables (WARNING: data loss)
     // Or use alter: true to update schema without data loss
     
-    await Customer.sync({ alter: true }); 
+    await sequelize.sync({ alter: true }); 
 
     // Start Server
     app.listen(PORT, () => {

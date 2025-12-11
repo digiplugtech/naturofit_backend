@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/eternalinternet/Desktop/dev_repos/eternalInternet/naturofit_backend/logs/.c14b001b23d8673d2be766d4470fdcef69ba2368-audit.json",
+    "files": [
+        {
+            "date": 1765447925744,
+            "name": "/Users/eternalinternet/Desktop/dev_repos/eternalInternet/naturofit_backend/logs/error-2025-12-11.log",
+            "hash": "b5f666c3e5beee86f8c2272db70577fcd02b281d7d6c81657284b0c250fb4b2c"
+        }
+    ],
+    "hashType": "sha256"
+}
