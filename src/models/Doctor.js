@@ -42,17 +42,9 @@ const Doctor = sequelize.define('Doctor', {
     allowNull: false
   },
   specialization: {
-    type: DataTypes.ENUM(
-      'Naturopathy', 
-      'Homeopathy', 
-      'Diet Therapy', 
-      'Acupuncture', 
-      'Yoga Therapy', 
-      'Hydrotherapy', 
-      'Massage Therapy', 
-      'Herbal Medicine'
-    ),
-    allowNull: false
+    type: DataTypes.STRING, // Changed from ENUM
+    allowNull: false,
+    // You can remove the 'validate' or add custom validation if needed
   },
   consultationType: {
     type: DataTypes.ENUM('online', 'in-person', 'both'),

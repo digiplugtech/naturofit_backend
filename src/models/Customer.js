@@ -29,6 +29,10 @@ const Customer = sequelize.define('Customer', {
     type: DataTypes.STRING,
     allowNull: false
   },
+  age: {
+    type: DataTypes.INTEGER,
+    allowNull: false
+  },
   preferredDate: {
     type: DataTypes.DATEONLY, // Stores date without time (YYYY-MM-DD)
     allowNull: false
