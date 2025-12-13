@@ -9,6 +9,21 @@
             "date": 1765447925744,
             "name": "/Users/eternalinternet/Desktop/dev_repos/eternalInternet/naturofit_backend/logs/error-2025-12-11.log",
             "hash": "b5f666c3e5beee86f8c2272db70577fcd02b281d7d6c81657284b0c250fb4b2c"
+        },
+        {
+            "date": 1765518480853,
+            "name": "/Users/eternalinternet/Desktop/dev_repos/eternalInternet/naturofit_backend/logs/error-2025-12-12.log",
+            "hash": "1957c63fe520f13c597a658d971553fba2a83f6705f81ff2e827cb53aa65e712"
+        },
+        {
+            "date": 1765646308206,
+            "name": "/Users/eternalinternet/Desktop/dev_repos/eternalInternet/naturofit_backend/logs/error-2025-12-13.log",
+            "hash": "c1d9cead09fa553c7454ce744574574ee6190a2bdcf351028a003c4577b98e0e"
+        },
+        {
+            "date": 1765656547376,
+            "name": "/Users/eternalinternet/Desktop/dev_repos/eternalInternet/naturofit_backend/logs/error-2025-12-14.log",
+            "hash": "d522a3c0f40804f2adb45d865eee896d0f805ada87c76009287668a25bbfc158"
         }
     ],
     "hashType": "sha256"

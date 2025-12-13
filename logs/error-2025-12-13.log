@@ -1,0 +1,5 @@
+2025-12-13 22:57:32:5732 error: Error creating customer: Incorrect date value: 'Invalid date' for column 'preferredDate' at row 1
+2025-12-13 23:05:37:537 error: Error creating customer: notNull Violation: Customer.name cannot be null
+2025-12-13 23:05:58:558 error: Error creating customer: notNull Violation: Customer.name cannot be null
+2025-12-13 23:13:17:1317 error: Error creating customer: notNull Violation: Customer.name cannot be null
+2025-12-13 23:14:29:1429 error: Error creating customer: notNull Violation: Customer.name cannot be null
