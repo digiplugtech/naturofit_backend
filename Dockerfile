@@ -11,7 +11,8 @@ COPY package*.json ./
 
 # Install dependencies
 # 'npm ci' is faster and more reliable for production builds than 'npm install'
-RUN npm ci --only=production
+RUN npm ci 
+# --only=production
 
 # Copy the rest of the application code
 COPY . .
